@@ -1,0 +1,16 @@
+name: create-pull-request
+id: ari:cloud:compass:0d13b137-2934-4b74-a921-694ab83c54c5:component/30795130-28b4-4d86-8fb7-c35eb5783350/3222b2ae-c715-471e-be39-c42ebe70b2a5
+description: A GitHub action to create a pull request for changes to your repository in the actions workspace
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/postman-eng/create-pull-request
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
